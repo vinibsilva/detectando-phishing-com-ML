@@ -1,5 +1,10 @@
+requests
 pandas
-numpy
+pymysql
+sqlalchemy
 matplotlib
-scikit-learn
-gradio
+black
+seaborn
+scikit-learn7
+prophet
+plotly
